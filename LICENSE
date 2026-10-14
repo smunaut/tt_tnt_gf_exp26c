@@ -1,0 +1,37 @@
+Copyright (c) 2026 Sylvain Munaut
+
+# Applicable licenses
+
+The full text of the licenses referenced here are under doc/licenses/
+
+As much as possible, each file bears its own license and any license
+indication inside a file through SPDX-License-Identifier is the one
+that applies.
+
+If no license info is in the file itself, then :
+ * Hardware design files (rtl/schematics/layout) are licensed under
+   CERN-OHL-S-2.0
+ * Scripts / Software are under GPL-3.0-or-later
+ * Documentation / Design documents are under CC-BY-NC-SA-4.0
+
+As an exception to the above, the final design GDS is also dual-licensed
+under Apache 2.0 for compliance with TinyTapeout requirements. This
+applies only to the final GDS and not to any of the sources files
+used to generate it.
+
+
+# AI
+
+## Text and Data Mining (TDM) Restriction
+Pursuant to Article 4(3) of the EU Copyright Directive (2019/790), the
+author(s) explicitly reserve all rights for text and data mining, machine
+learning training, and artificial intelligence model development. Any
+automated scraping, processing, or reproduction of this repository's
+contents for AI training purposes is strictly prohibited without prior
+written authorization.
+
+## Other
+In general all material here has all rights reserved and the author
+doesn't consider AI training or other AI uses of the repository to be
+fair use. All products (model and its output) are considered to be
+derived works if any of the material here is used in the process.
